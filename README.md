@@ -2,4 +2,4 @@
 Desafio 1: Desenvolva uma Landing Page do módulo base do curso de Tecnologia da Escola DNC
 
 Link para acesso a Planilha do Formulario:
-https://api.sheetmonkey.io/form/eR9dYUEDR2NKKN8wijrq47
+https://docs.google.com/spreadsheets/d/1S2lx97aLBJX9-9C64rr3eyaw0SY32FCIrpnJrkTVzvg/edit?usp=sharing
