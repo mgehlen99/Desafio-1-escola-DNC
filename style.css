@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#menusuperior{
+    background-color: #303030;
+    color: #FFFFFF;
+}
+
+#titulomenusuperior{
+    margin-left: 40px;
+    padding-top: 150px;
+    font-size: 40px;
+}
+
+#textomenusuperior{
+    margin-left: 40px;
+    font-size: 14px;
+    padding-bottom: 100px;
+}
+
+#menuinformacional{
+    background-color: #F9F9F9;
+   
+}
+
+.numbers-mi{
+    font-size: 25px;
+    color: #000;
+    font-weight: 600;
+
+}
+
+.text-mi{
+    font-size: 15px;
+    color: #000;
+    font-weight: 400;
+
+}
+
+#styletextos{
+    display: grid;
+    grid-auto-flow: column;
+    columns: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 180px;
+
+}
+
+#menuimagem{
+    display: grid;
+    grid-auto-flow: column;
+    columns:center;
+    background-color: #FFFFFF;
+
+}
+
+#titulomenuimagem{
+    font-size: 32px;
+    color: #000;
+    font-weight: 600;
+    text-align: justify;
+    margin-top: 200px;
+    margin-left: 130px;
+    
+}
+
+#textomenuimagem{
+    font-size: 22px;
+    color: #000;
+    font-weight: 400;
+    text-align: justify;
+}
+
+#internacasa{
+    width: 400px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+}
+
+#menuiinferior{
+    background-color: #303030;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+#titulomenuinferior{
+    padding-top: 70px;
+    padding-bottom: 40px;
+    font-size: 25px;
+    
+}
+
+input{
+    background-color: #FFF;
+    width: 340px;
+    height: 45px;
+    margin: 15px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-family: "Raleway";
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.30);
+
+}
+
+button{
+    background-color: #C07212;
+    width: 200px;
+    height: 50px;
+    color: #FFF;
+    margin: 50px;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: "Raleway";
+    font-weight: bolder;
+
+}
+
+button:hover{
+    transform: translatey(-5px);
+    transition-duration: 0,5s;
+    background-color: #C07212;
+    box-shadow: #462a06;
+}
